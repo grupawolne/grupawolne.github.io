@@ -1,7 +1,7 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
     {{- if site.Params.footer }}
-    <span>{{ site.Params.footer | markdownify }}</span>
+    <span>{{ replace site.Params.footer "{year}" now.Year | markdownify }}</span>
     {{- else }}
     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}

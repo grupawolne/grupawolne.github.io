@@ -1,14 +1,11 @@
-baseURL: https://grupawolne.github.io/
+baseURL: https://grupawolne.pl
 languageCode: pl-pl
 title: Grupa Wolne
 theme: "PaperMod"
 
 params:
-  footer: wolne
+  footer: grupa wolne ❤️ {year}
   displayFullLangName: true
-  # label:
-  #   icon: /logo.svg
-  #   iconHeight: 50
 
 permalinks:
   events: :filename
