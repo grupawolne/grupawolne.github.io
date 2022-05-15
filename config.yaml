@@ -1,0 +1,70 @@
+baseURL: https://grupawolne.pl
+languageCode: pl-pl
+title: Grupa Wolne
+theme: "PaperMod"
+
+params:
+  footer: wolne
+  displayFullLangName: true
+  # label:
+  #   icon: /logo.svg
+  #   iconHeight: 50
+
+permalinks:
+  events: :filename
+
+defaultContentLanguage: pl
+languages:
+  pl:
+    languageName: 🇵🇱 polski
+    weight: 1
+    menu:
+      main:
+        - identifier: events
+          name: Wydarzenia
+          url: /
+          weight: 1
+        - identifier: about
+          name: O nas
+          url: /o-nas/
+          weight: 2
+        - identifier: contact
+          name: Kontakt
+          url: /kontakt/
+          weight: 3
+  en:
+    title: Grupa Wolne
+    languageName: 🇺🇸 english
+    weight: 2
+    menu:
+      main:
+        - identifier: events
+          name: Events
+          url: /
+          weight: 1
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 2
+        - identifier: contact
+          name: Contact
+          url: /contact/
+          weight: 3
+  ua:
+    title: Grupa Wolne
+    languageName: 🇺🇦 український
+    weight: 3
+    menu:
+      main:
+        - identifier: events
+          name: Події
+          url: /
+          weight: 1
+        - identifier: about
+          name: Про нас
+          url: /pro-nas
+          weight: 2
+        - identifier: contact
+          name: Контакт
+          url: /kontakt
+          weight: 3
