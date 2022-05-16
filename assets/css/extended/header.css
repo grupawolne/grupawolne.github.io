@@ -1,0 +1,45 @@
+@media screen and (min-width: 769px) {
+    .logo > a > img {
+        height: 70px;
+    }
+
+    :root {
+        --header-height: 100px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    :root {
+        --header-height: 80px;
+    }
+
+    .logo {
+        width: 100%;
+    }
+
+    .logo-switches {
+        margin: 0 0 0 auto;
+    }
+
+    button#theme-toggle {
+        margin: 0 0 0 8px;
+    }
+
+    .logo > a > img {
+        height: 50px;
+    }
+
+    .lang-switch li:first-child {
+        display: none;
+    }
+
+    .lang-switch li,
+    .lang-switch ul,
+    .lang-switch a {
+        margin: 0;
+    }
+    
+    .lang-switch li {
+        margin: 0 0 0 16px;
+    }
+}
