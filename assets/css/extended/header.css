@@ -18,11 +18,11 @@
     }
 
     .logo-switches {
-        margin: 0 0 0 auto;
+        margin: 0;
     }
 
     button#theme-toggle {
-        margin: 0 0 0 8px;
+        margin: 0 auto 0 8px;
     }
 
     .logo > a > img {
@@ -40,6 +40,9 @@
     }
     
     .lang-switch li {
-        margin: 0 0 0 16px;
+        margin-right: 8px;
+    }
+    .lang-switch li:last-child {
+        margin-right: 0;
     }
 }

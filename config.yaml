@@ -6,6 +6,7 @@ theme: "PaperMod"
 params:
   footer: grupa wolne ❤️ {year}
   displayFullLangName: true
+  disableSpecial1stPost: true
   label:
     icon: /logo.svg
 
