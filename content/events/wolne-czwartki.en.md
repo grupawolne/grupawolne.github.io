@@ -1,7 +1,7 @@
 ---
+slug: thursdays-off
 title: "Wolne Czwartki"
 draft: false
-slug: wolne-czwartki
 where: ul. Marszałkowska 28/U1A
 when: każdy czwartek, od 17:00 do 20:00
 recipients: młodzież 13-19 (około)

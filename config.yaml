@@ -11,7 +11,7 @@ params:
     icon: /logo.svg
 
 permalinks:
-  events: :filename
+  events: :slug
 
 defaultContentLanguage: pl
 languages:
