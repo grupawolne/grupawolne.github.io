@@ -16,6 +16,7 @@ permalinks:
 defaultContentLanguage: pl
 languages:
   pl:
+    title: Grupa Wolne
     languageName: 🇵🇱 polski
     weight: 1
     menu:
@@ -63,6 +64,24 @@ languages:
         - identifier: about
           name: Про нас
           url: /pro-nas
+          weight: 2
+        - identifier: contact
+          name: Контакт
+          url: /kontakt
+          weight: 3
+  ru:
+    title: Grupa Wolne
+    languageName: 🇷🇺 русский
+    weight: 4
+    menu:
+      main:
+        - identifier: events
+          name: События
+          url: /
+          weight: 1
+        - identifier: about
+          name: О нас
+          url: /o-nas
           weight: 2
         - identifier: contact
           name: Контакт
