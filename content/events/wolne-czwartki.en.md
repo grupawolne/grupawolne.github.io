@@ -1,20 +1,20 @@
 ---
 slug: thursdays-off
-title: "Wolne Czwartki"
+title: "Thursdays Off"
 draft: false
-where: ul. Marszałkowska 28/U1A
-when: każdy czwartek, od 17:00 do 20:00
-recipients: młodzież 13-19 (około)
+where: Inclsv Buzz, Marszałkowska 28/U1A
+when: every Thursday from 5 pm to 8 pm
+recipients: youth between 13-19 (approx!)
 cover:
     image: /picnic.jpg
 ---
 
-Wolne czwartki to cotygodniowe, bezpłatne wydarzenie, na które zapraszamy młodzież z doświadczeniem migracyjnym i nie tylko. Spotykamy się o 17:00 w Inclsv Buzz przy placu Zbawiciela. Mamy bazę i wspólny czas - to co wydarzy się dalej zależy od warunków i chęci. W słoneczne dni zaproponujemy Wam wycieczki i zabawy na powietrzu: rowery, spacery, frisbee, ogniska. W środku możemy oglądać filmy, grać w planszówki, malować pazurki, lepić z gliny, zobaczymy! Nasze spotkania to szansa na poćwiczenie polskiego i innych języków przy luźnych rozmowach, poznanie miasta i nowych znajomych.
+Thursdays Off is a weekly, free event to which we invite young people, who have experienced migration, but not only. We meet at 5 PM at Inclsv Buzz at Zbawiciela Square. We have a base and free time on our hands, what happens next depends on the weather and on what we want to do. On sunny days, we will offer you trips and games in the open air: bicycles, walks, Frisbee, bonfires. Inside, we can watch movies, play games, paint nails, make pottery - we will see! Our meetings are a chance to practice Polish and other languages ​​during casual conversations, get to know the city and make new friends.
+ 
+We invite everyone - regardless of skin color, sexual orientation, religion or belonging to any minority group - to feel at home. Come and stay with us.
+ 
+Who are we? [Read about us.](/en/about)
 
-Chcemy, żeby wszyscy - niezależnie od koloru skóry, orientacji seksualnej, religii czy przynależności do jakiejkolwiek grupy mniejszościowej - czuli się jak u siebie.
-Wpadnij i zostań z nami!
-
-Kim jesteśmy? [Przeczytaj o nas.](/o-nas)
-Masz pytania? Napisz na hej@grupawolne.pl   
+Get in touch: hej@grupawolne.pl
 
 

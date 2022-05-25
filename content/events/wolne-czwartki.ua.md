@@ -1,19 +1,18 @@
 ---
-title: "Wolne Czwartki"
+title: "Вільні Четверги"
 draft: false
-where: ul. Marszałkowska 28/U1A
-when: każdy czwartek, od 17:00 do 20:00
-recipients: młodzież 13-19 (około)
+where: Inclsv Buzz, Marszałkowska 28/U1A 
+when: щочетверга з 17:00 до 20:00
+recipients: люди від 13 до 19 років (приблизно!)
 cover:
     image: /picnic.jpg
 ---
 
-Wolne czwartki to cotygodniowe, bezpłatne wydarzenie, na które zapraszamy młodzież z doświadczeniem migracyjnym i nie tylko. Spotykamy się o 17:00 w Inclsv Buzz przy placu Zbawiciela. Mamy bazę i wspólny czas - to co wydarzy się dalej zależy od warunków i chęci. W słoneczne dni zaproponujemy Wam wycieczki i zabawy na powietrzu: rowery, spacery, frisbee, ogniska. W środku możemy oglądać filmy, grać w planszówki, malować pazurki, lepić z gliny, zobaczymy! Nasze spotkania to szansa na poćwiczenie polskiego i innych języków przy luźnych rozmowach, poznanie miasta i nowych znajomych.
+Вільні четверги – це щотижневий безкоштовний захід, на який ми запрошуємо молодих людей з міграційним досвідом. Ми зустрічаємося о 17:00 в Inclsv Buzz на площі Zbawiciela. У нас є база і спільний час – те, що буде далі, залежить від умов і бажання. У сонячні дні ми запропонуємо вам подорожі та ігри на свіжому повітрі: велосипеди, прогулянки, фрісбі, вогнища. Всередині ми можемо дивитися фільми, грати в ігри, фарбувати кігті, виготовляти гончарні вироби — побачимо! Наші зустрічі – це можливість попрактикувати польську та інші мови під час невимушених розмов, пізнати місто та знайти нових друзів.
 
-Chcemy, żeby wszyscy - niezależnie od koloru skóry, orientacji seksualnej, religii czy przynależności do jakiejkolwiek grupy mniejszościowej - czuli się jak u siebie.
-Wpadnij i zostań z nami!
+Ми хочемо, щоб усі, незалежно від кольору шкіри, сексуальної орієнтації, релігії чи приналежності до будь-якої групи меншин, відчували себе як вдома. Прийди і будь з нами!
 
-Kim jesteśmy? [Przeczytaj o nas.](/o-nas)
-Masz pytania? Napisz na hej@grupawolne.pl   
+Хто ми? [Читайте про нас.](/ua/pro-nas)
+У вас є які-небудь питання? Пишіть на hej@grupawolne.pl
 
 

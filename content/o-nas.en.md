@@ -1,16 +1,16 @@
 ---
 title: "About"
 draft: false
+slug: about
 ---
 
-Jesteśmy oddolnym kolektywem przyjaciół i przyjaciółek, aktywistek i aktywistów. Kochamy Warszawę i chcemy, żeby wszyscy czuli się tu dobrze, dlatego stworzyłyśmy bezpieczną i otwartą przestrzeń dla dzieci i dorosłych, gdzie uczymy się, integrujemy, prowadzimy warsztaty i budujemy sieci wzjemnej pomocy.
+We are Grupa Wolne - a collective of friends, who work for the benefit of people experiencing various types of exclusion. We love Warsaw, and we want everyone to feel good here. That is why we’ve created a safe and open space, where local people can meet those with a refugee background. We organize events during which we integrate, learn, play, participate in workshops, and build mutual help networks.
+ 
+We are:
+- free from discrimination
+- free from hate
+- free from prejudice
 
-Nazywamy się **Grupa Wolne**, jesteśmy
-- wolne od dyskryminacji
-- wolne od nienawiści
-- wolne od religii
+[Check the list of our events.](/en)
 
-[Sprawdź nadchodzące wydarzenia](/en/)
-
-do zobaczenia! 🏳️‍🌈
-
+See you there! 🏳️‍🌈
