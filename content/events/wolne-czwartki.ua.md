@@ -7,7 +7,7 @@ recipients: люди від 13 до 19 років (приблизно!)
 btnText: Зареєструватися
 btnLink: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
 cover:
-    image: /picnic.jpg
+    image: /poster.jpg
 aliases:
     - /ua/z
 ---

@@ -8,7 +8,7 @@ recipients: youth between 13-19 (approx!)
 btnText: Sign up
 btnLink: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
 cover:
-    image: /picnic.jpg
+    image: /poster.jpg
 aliases:
     - /en/z
 ---
