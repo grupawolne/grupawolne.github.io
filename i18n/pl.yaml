@@ -4,3 +4,5 @@
   translation: "Kiedy"
 - id: recipients
   translation: "Dla kogo"
+- id: sign-up
+  translation: "Zapisz się"

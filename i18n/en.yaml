@@ -4,3 +4,5 @@
   translation: "When"
 - id: recipients
   translation: "For whom"
+- id: sign-up
+  translation: "Sign up"

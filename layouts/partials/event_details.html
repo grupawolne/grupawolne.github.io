@@ -1,11 +1,16 @@
 <div class="event-details">
-    <div class="entry">
-        <span class="title">{{ i18n "when" }}:</span> {{ .Params.when }}
+    <div class="text">
+        <div class="entry">
+            <span class="title">{{ i18n "when" }}:</span> {{ .ctx.Params.when }}
+        </div>
+        <div class="entry">
+            <span class="title">{{ i18n "where" }}:</span> {{ .ctx.Params.where }}
+        </div>
+        <div class="entry">
+            <span class="title">{{ i18n "recipients" }}:</span> {{ .ctx.Params.recipients }}
+        </div>
     </div>
-    <div class="entry">
-        <span class="title">{{ i18n "where" }}:</span> {{ .Params.where }}
-    </div>
-    <div class="entry">
-        <span class="title">{{ i18n "recipients" }}:</span> {{ .Params.recipients }}
-    </div>
+    {{if not .IsHome }}
+    <a href="{{ .ctx.Params.btnHref }}" target="_blank" class="rainbow-button">{{ .ctx.Params.btnText }}</a>
+    {{end}}
 </div>

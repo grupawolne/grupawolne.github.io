@@ -4,6 +4,8 @@ title: Grupa Wolne
 theme: "PaperMod"
 
 params:
+  assets:
+    disableHLJS: true
   footer: grupa wolne ❤️ {year}
   displayFullLangName: true
   disableSpecial1stPost: true

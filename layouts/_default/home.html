@@ -30,6 +30,7 @@
 
 {{- if .Content }}
 <div class="post-content">
+  {{ .isHome }}x§
   {{- if not (.Param "disableAnchoredHeadings") }}
   {{- partial "anchored_headings.html" .Content -}}
   {{- else }}{{ .Content }}{{ end }}
@@ -68,7 +69,7 @@
       {{- .Title }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h2>
-    {{- partial "event_details.html" . -}}
+    {{- partial "event_details.html" (dict "ctx" . "IsHome" true) -}}
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">

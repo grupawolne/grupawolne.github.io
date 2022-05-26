@@ -1,15 +1,29 @@
 .event-details {
     font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
-.event-details .title {
+.text .title {
     font-weight: 700;
-}
-
-.event-details + .post-content {
-    margin-top: calc(var(--gap) * 1.5);
 }
 
 .post-entry .event-details {
     margin-top: 8px;
+}
+
+.event-details + .post-content {
+    margin-top: var(--gap);
+}
+
+@media screen and (max-width: 768px) {
+    .event-details {
+        flex-wrap: wrap;
+    }
+
+    .text {
+        flex: 1;
+        margin-bottom: var(--gap);
+    }
 }

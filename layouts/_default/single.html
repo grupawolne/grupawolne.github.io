@@ -28,7 +28,7 @@
   {{- end }}
 
   {{- if eq .Section "events" }}
-    {{- partial "event_details.html" . -}}
+    {{- partial "event_details.html" (dict "ctx" .) -}}
   {{- end }}
 
   {{- if .Content }}
