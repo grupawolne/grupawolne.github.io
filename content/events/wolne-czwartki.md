@@ -5,7 +5,7 @@ where: Inclsv Buzz, Marszałkowska 28/U1A
 when: każdy czwartek, od 17:00 do 20:00
 recipients: młodzież 13-19 (około)
 btnText: Zapisz się
-btnLink: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
+btnHref: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
 cover:
     image: /poster.jpg
 aliases:

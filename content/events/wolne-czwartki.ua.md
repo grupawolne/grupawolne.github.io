@@ -5,7 +5,7 @@ where: Inclsv Buzz, Marszałkowska 28/U1A
 when: щочетверга з 17:00 до 20:00
 recipients: люди від 13 до 19 років (приблизно!)
 btnText: Зареєструватися
-btnLink: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
+btnHref: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
 cover:
     image: /poster.jpg
 aliases:

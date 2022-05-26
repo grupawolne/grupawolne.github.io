@@ -6,7 +6,7 @@ where: Inclsv Buzz, Marszałkowska 28/U1A
 when: every Thursday from 5 pm to 8 pm
 recipients: youth between 13-19 (approx!)
 btnText: Sign up
-btnLink: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
+btnHref: https://docs.google.com/forms/d/19Hgf9FYLhWuqe_fDuqeQAXI7_7sWB1C8r82InwtqDfY
 cover:
     image: /poster.jpg
 aliases:
