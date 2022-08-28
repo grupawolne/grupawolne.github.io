@@ -1,6 +1,6 @@
 {{- if .IsTranslated -}}
 {{- if (ne .Layout "search") }}
-{{- if or .Params.author site.Params.author (.Param "ShowReadingTime") (not .Date.IsZero) }}&nbsp;|&nbsp;{{- end -}}
+{{- if or .Params.author site.Params.author (.Param "ShowReadingTime") (and (not .Date.IsZero) (not (.Param "HideDate"))) }}&nbsp;|&nbsp;{{- end -}}
 {{- end }}
 <ul class="i18n_list">
     {{- range .Translations }}

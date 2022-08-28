@@ -23,69 +23,101 @@ languages:
     weight: 1
     menu:
       main:
-        - identifier: events
-          name: Wydarzenia
-          url: /
+        # - identifier: home
+        #   name: Strona główna
+        #   url: /
+        #   weight: 1
+        - identifier: thursdays-off
+          name: Wolne Czwartki
+          url: /wolne-czwartki
           weight: 1
+        - identifier: zin
+          name: ZIN/UKRAINE
+          url: /zin
+          weight: 2
         - identifier: about
           name: O nas
-          url: /o-nas/
-          weight: 2
+          url: /o-nas
+          weight: 3
         - identifier: contact
           name: Kontakt
-          url: /kontakt/
-          weight: 3
+          url: /kontakt
+          weight: 4
   en:
     title: Grupa Wolne
     languageName: 🇺🇸 english
     weight: 2
     menu:
       main:
-        - identifier: events
-          name: Events
-          url: /
+        # - identifier: home
+        #   name: Home
+        #   url: /
+        #   weight: 1
+        - identifier: thursdays-off
+          name: Thursdays Off
+          url: /thursdays-off
           weight: 1
+        - identifier: zin
+          name: ZIN/UKRAINE
+          url: /zin
+          weight: 2
         - identifier: about
           name: About
-          url: /about/
-          weight: 2
+          url: /about
+          weight: 3
         - identifier: contact
           name: Contact
           url: /contact/
-          weight: 3
+          weight: 4
   ua:
     title: Grupa Wolne
     languageName: 🇺🇦 український
     weight: 3
     menu:
       main:
-        - identifier: events
-          name: Події
-          url: /
+        # - identifier: home
+        #   name: додому
+        #   url: /
+        #   weight: 1
+        - identifier: thursdays-off
+          name: Вільні Четверги
+          url: /вільні-четверги 
           weight: 1
+        - identifier: zin
+          name: ZIN/UKRAINE
+          url: /zin
+          weight: 2
         - identifier: about
           name: Про нас
           url: /pro-nas
-          weight: 2
+          weight: 3
         - identifier: contact
           name: Контакт
           url: /kontakt
-          weight: 3
+          weight: 4
   ru:
     title: Grupa Wolne
     languageName: 🇷🇺 русский
     weight: 4
     menu:
       main:
-        - identifier: events
-          name: События
-          url: /
+        # - identifier: home
+        #   name: Дом
+        #   url: /
+        #   weight: 1
+        - identifier: thursdays-off
+          name: Открытый Четверг
+          url: /открытый-четверг
           weight: 1
+        - identifier: zin
+          name: ZIN/UKRAINE
+          url: /zin
+          weight: 2
         - identifier: about
           name: О нас
           url: /o-nas
-          weight: 2
+          weight: 3
         - identifier: contact
           name: Контакт
           url: /kontakt
-          weight: 3
+          weight: 4

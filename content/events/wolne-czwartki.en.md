@@ -1,6 +1,7 @@
 ---
-slug: thursdays-off
 title: "Thursdays Off"
+date: 2022-06-01T12:00:00+01:00
+hideDate: true
 draft: false
 where: Inclsv Buzz, Marszałkowska 28/U1A
 when: every Thursday from 5 pm to 8 pm

@@ -1,5 +1,7 @@
 ---
 title: "Wolne Czwartki"
+date: 2022-06-01T12:00:00+01:00
+hideDate: true
 draft: false
 where: Inclsv Buzz, Marszałkowska 28/U1A
 when: każdy czwartek, od 17:00 do 20:00
