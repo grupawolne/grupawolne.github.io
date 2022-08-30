@@ -8,7 +8,7 @@ where: Inclsv Buzz, Marszałkowska 28/U1A
 when: с 9 сентября на 3 месяца
 recipients: Молодежь в возрасте 15-25 
 btnText: Zapisat'sya
-btnHref: https://docs.google.com/forms/d/1JQNl23uXvpsv3anAGEXqyk9rv5x2glyuZR74axPPFq4
+btnHref: https://docs.google.com/forms/d/e/1FAIpQLSdSVuE77pJhZm8E-8n0aelU8LPNn5DmxQVYaBtbtScqdzzZ_g/viewform
 cover:
     image: /zin.jpg
 ---
