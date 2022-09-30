@@ -11,6 +11,4 @@ We are:
 - free from hate
 - free from prejudice
 
-[Check the list of our events.](/en)
-
 See you there! 🏳️‍🌈

@@ -11,6 +11,4 @@ Jesteśmy:
 - wolne od nienawiści
 - wolne od uprzedzeń
 
-[Sprawdź listę naszych wydarzeń.](/)
-
 Do zobaczenia! 🏳️‍🌈
