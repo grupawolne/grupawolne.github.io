@@ -5,7 +5,7 @@ hideDate: true
 draft: false
 slug: art
 where: Inclsv Buzz, Marszałkowska 28/U1A 
-when: з 11.10 до 27.12, щовівторка з 17 до 20
+when: з 11.10 до 27.12, щовівторка з 16:30 до 19:30
 recipients: люди від 15 до 25 років
 btnText: Зареєструватися
 btnHref: https://forms.gle/1dzbxCD6jAHKaagq7
