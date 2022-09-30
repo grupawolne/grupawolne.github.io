@@ -5,7 +5,7 @@ hideDate: true
 slug: art
 draft: false
 where: Inclsv Buzz, Marszałkowska 28/U1A
-when: from 4.10 to 27.12, every Tuesday from 5 pm to 8 pm
+when: from 11.10 to 27.12, every Tuesday from 5 pm to 8 pm
 recipients: from 15 to 25 years old
 btnText: Sign up
 btnHref: https://forms.gle/1dzbxCD6jAHKaagq7

@@ -5,7 +5,7 @@ hideDate: true
 draft: false
 slug: art
 where: Inclsv Buzz, Marszałkowska 28/U1A
-when: od 4.10 do 27.12, w każdy wtorek od 17 do 20
+when: od 11.10 do 27.12, w każdy wtorek od 17 do 20
 recipients: osoby od 15 do 25 roku życia
 btnText: Zapisz się
 btnHref: https://forms.gle/1dzbxCD6jAHKaagq7
