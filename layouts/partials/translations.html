@@ -1,0 +1,15 @@
+{{ if .IsTranslated }}
+{{ .Scratch.Add "counter" 1 }}
+
+<button id="lang-selector{{ .Scratch.Get "counter" }}" data-dropdown-toggle="lang-container{{ .Scratch.Get "counter" }}" class="font-medium text-sm px-4 py-2.5 text-center" type="button">{{ .Language.Params.displayName }} ></button>
+<!-- Dropdown menu -->
+<div id="lang-container{{ .Scratch.Get "counter" }}" class="hidden z-10 w-44 bg-neutral text-neutral-900 rounded">
+    <ul class="py-1 text-sm" aria-labelledby="lang-selector{{ .Scratch.Get "counter" }}">
+        {{ range .AllTranslations }}
+        <li>
+            <a href="{{ .RelPermalink }}" class="block py-2 px-4">{{ .Language.Params.displayName | emojify }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
