@@ -39,25 +39,12 @@
 </script>
 {{- end }}
 
-<!-- home redirect -->
-{{ if eq .Site.Language.Lang "ru" }}
-    {{ .Scratch.Set "url" "/ru/открытый-четверг" }}
-{{ else if eq .Site.Language.Lang "en" }}
-  {{ .Scratch.Set "url" "/en/thursdays-off" }}
-{{ else if eq .Site.Language.Lang "ua" }}
-  {{ .Scratch.Set "url" "/ua/вільні-четверги" }}
-{{ else }}
-  {{ .Scratch.Set "url" "/wolne-czwartki" }}
-{{ end }}
-
 <header class="header">
     <nav class="nav">
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
-            <!-- home redirect -->
-            <!-- <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)"> -->
-            <a href="{{ (.Scratch.Get "url") }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}
@@ -106,10 +93,9 @@
             <span class="logo-switches">
                 {{- $lang := .Lang}}
                 {{- $separator := or $label_text (not site.Params.disableThemeToggle)}}
-                {{- with site.Home.AllTranslations }}
                 <ul class="lang-switch">
                     {{- if $separator }}<li>|</li>{{ end }}
-                    {{- range . -}}
+                    {{- range .Translations }}
                     {{- if ne $lang .Lang }}
                     <li>
                         <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
@@ -124,7 +110,6 @@
                     {{- end -}}
                     {{- end}}
                 </ul>
-                {{- end }}
             </span>
         </div>
         {{- $currentPage := . }}
