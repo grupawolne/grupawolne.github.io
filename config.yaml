@@ -14,6 +14,7 @@ params:
 
 permalinks:
   events: :slug
+  redirects: :slug
 
 defaultContentLanguage: pl
 languages:
@@ -81,7 +82,7 @@ languages:
         #   weight: 1
         - identifier: thursdays-off
           name: Вільні Четверги
-          url: /вільні-четверги 
+          url: /вільні-четверги
           weight: 1
         - identifier: art
           name: Вільне Малюнки
